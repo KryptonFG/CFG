@@ -12,7 +12,7 @@ config file for cs2
 ---
 
 ## ⚙️ Команды консоли
-
+Each command is accompanied by a brief description in English and Russian.
 Каждая команда сопровождается кратким описанием на английском и русском языках.
 
 ```ini
