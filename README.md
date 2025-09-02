@@ -169,4 +169,3 @@ cl_buywheel_donate_key "1"
 ```
 — Enables donate key in buy menu.  
 — Включает клавишу покупки для друга.
-```
